@@ -1,29 +1,23 @@
-# gRPC-demo
+# gRPC测试demo
 
-gRPC Demo - Node.js
+gRPC测试demo基于Node.js
 
-## Usage
+## 使用方法
 
-### install package
+### 下载依赖
 
 ```
 npm i 
 ```
 
-### run server
+### 第一步启动服务器
 
 ```
 node server.js
 ```
 
-### run client
+### 第二部启动客户端
 
 ```
 node client.js
 ```
-
-## Other
-
-- [gRPC Basics - Node.js](http://www.grpc.io/docs/tutorials/basic/node.html)
-- [Protocol Buffers
-](https://developers.google.com/protocol-buffers/docs/proto3#simple)
